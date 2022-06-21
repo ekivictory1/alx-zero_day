@@ -1,1 +1,1 @@
-My first readme
+Welcome to ALX School Projects
