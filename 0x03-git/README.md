@@ -1,1 +1,1 @@
-my second commit
+This is a Git Project Directory
